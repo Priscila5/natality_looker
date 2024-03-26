@@ -47,4 +47,8 @@ view: county_natality {
   measure: count {
     type: count
   }
+  measure: avg{
+    type: average
+
+    }
 }
